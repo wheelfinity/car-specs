@@ -7,45 +7,6 @@
     "hp": "502",
     "torque": "470 Nm",
     "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1000"
-  },
-  {
-    "brand": "Mahindra",
-    "name": "Thar",
-    "exPrice": "18 lakhs",
-    "engine": "6.5L V12",
-    "hp": "770",
-    "torque": "720 Nm",
-    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?q=80&w=1000"
-  },
-  {
-   "brand": "Royal Enfield",
-    "name": "GT 650",
-    "exPrice": "4 lakhs",
-    "engine": "6.5L V12",
-    "hp": "770",
-    "torque": "720 Nm",
-    "image": "https://images.unsplash.com/photo-1662788019557-443ef532cccd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    
-  },
-  {
-   "brand": "Tata",
-    "name": "Nano",
-    "exPrice": "1 lakhs",
-    "engine": "6.5L V12",
-    "hp": "770",
-    "torque": "720 Nm",
-    "image": "https://images.unsplash.com/photo-1662788019557-443ef532cccd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    
-  },
-  {
-    "brand": "Fortuner",
-    "name" : "Legender",
-    "exPrice" : "4 lakhs",
-    "engine" : "3.4L V4",
-    "hp": "770",
-    "torque" : "449 nm",
-    "image" : "https://images.unsplash.com/photo-1662788019557-443ef532cccd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
   }
- 
 
 ]
