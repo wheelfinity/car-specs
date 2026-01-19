@@ -5,27 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wheelfinity | Home</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
     <nav class="navbar">
-        <div class="logo">WHEEL<span>FINITY</span></div>
+        <a href="index.html" class="logo">WHEEL<span>FINITY</span></a>
         <ul class="nav-links">
-            <li><a href="index.html" class="active">Home</a></li>
-            <li><a href="#" id="contact-btn">Contact Us</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#" id="contact-link">Contact Us</a></li>
         </ul>
     </nav>
-
-    <div id="contact-modal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <h2>Project Wheelfinity</h2>
-            <p><em>Beyond Specs. Beyond Limits.</em></p>
-            <hr>
-            <h3>Our Team:</h3>
-            
-        </div>
-    </div>
 
     <header class="hero">
         <div class="hero-left">
@@ -39,9 +27,29 @@
             </div>
         </div>
         <div class="hero-right">
-            <img src="https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?q=80&w=2070" class="hero-img" alt="Supercar">
+            <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070" class="hero-img">
         </div>
     </header>
+
+    <div id="contact-modal" class="modal-overlay">
+        <div class="modal-content">
+            <span class="close-btn" style="float:right; cursor:pointer; font-size:28px;">&times;</span>
+            <h2 style="color:var(--accent); margin-bottom:15px;">PROJECT WHEELFINITY</h2>
+            <p style="color:#888; margin-bottom:20px;">Beyond Specs. Beyond Limits.</p>
+            <p style="color:#888; margin-bottom:20px;">Our team members</p>
+            <div style="text-align:left; display:inline-block;">
+            <ul>
+                <li>BABLU</li>
+                <li>NIKHIL</li>
+                <li>CHANDAN</li>
+                <li>KARISMA</li>
+                <li>RENUKA</li>
+                <li>NEHA</li>
+            </ul>  
+            </div>
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
