@@ -12,6 +12,7 @@ async function loadCarDetails() {
 
         container.innerHTML = `
             <h1 style="margin-bottom:10px; font-size:2.5rem;">${car.brand} ${car.name}</h1>
+            <h1 style="margin-bottom:10px; font-size:1.5rem;">${car.exPrice}</h1>
             <p style="color:#666; margin-bottom:30px; font-size:1.2rem;">Detailed Specifications & Pricing</p>
             <div class="details-img-container"><img src="${car.image}" class="car-main-img"></div>
             <div class="tab-menu">
